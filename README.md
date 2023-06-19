@@ -1,11 +1,11 @@
-About r-ineq
-============
+About r-ineq-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ineq-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ineq
 
 Package license: GPL-2 | GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ineq-feedstock/blob/main/LICENSE.txt)
 
 Summary: Inequality, concentration, and poverty measures. Lorenz curves (empirical and theoretical).
 
